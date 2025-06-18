@@ -31,6 +31,9 @@ Input validation and error handling
 
 Basic software UX concepts
 
+output:
+![Image](https://github.com/user-attachments/assets/05cf38a2-48cf-4f14-b2bb-890c6db24f80)
+
 🚀 Ideal For:
 Python beginners
 
